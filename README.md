@@ -1,4 +1,4 @@
-## Scope of Work - MCP (Medel Context Protocol) Server
+## Scope of Work - MCP (Model Context Protocol) Server
 
 ### Project Overview
 
